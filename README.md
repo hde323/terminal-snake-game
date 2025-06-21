@@ -1,10 +1,10 @@
-#to run the game use:#
+# to run the game use:
 
 ```
 gcc main.c
 ./a.exe
 ```
-###note: the program works only on windows##
+### note: the program works only on windows
 
 
 
